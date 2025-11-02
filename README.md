@@ -159,8 +159,8 @@ Each line in the generated JSONL file represents one issue:
 | Project | Key | Result |
 |---------|-----|--------|
 | Apache Spark | `SPARK` | ✅ Successfully scraped and transformed |
-| Apache Kafka | `KAFKA` | ✅ Ready to scrape |
-| Apache Airflow | `AIRFLOW` | ⚠️ May require authentication (use `HIVE` as alternative) |
+| Apache Kafka | `KAFKA` | ✅ Successfully scraped and transformed |
+| Apache Hadoop | `HADOOP` | ✅ Successfully scraped and transformed |
 
 ---
 
